@@ -703,7 +703,6 @@ content: counter(bck-li-counter, lower-alpha);
 #actividad .workspace.multiple-choice .opcion,
 #actividad .workspace.matching .opcion,
 #actividad .workspace.ordenar .js-rank-item {
-    border: 2px solid #10A0C6;
     background: #fff;
 }
 
