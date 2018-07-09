@@ -2,7 +2,7 @@
 
 	body.content_type_clase_go {
 		font-size: 1.8rem;
-		font-family: cursive;
+	
 	}
 
 	body.content_type_clase_go #actividad .content img {
@@ -394,7 +394,6 @@
     border: none;
     background: none;
     color: #cad225;
-    font-family: cursive;
     font-size: 4rem;
     line-height: 1;
 }
@@ -404,7 +403,6 @@
 .bck-title2 {
 	display: block;
     color: #404040;
-    font-family: cursive;
     font-size: 2.8rem;
     letter-spacing: 1px;
 }
@@ -474,7 +472,6 @@
 .cke_contents .bck-ol1 li {
     display: block;
     color: #404040;
-    font-family: cursive;
     font-size: 2.8rem;
     letter-spacing: 1px;
 
