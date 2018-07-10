@@ -468,8 +468,8 @@
 
 /*lista ordenada 1*/
 
-.content .bck-ol1 li,
-.cke_contents .bck-ol1 li {
+.content .bck-ol1 li {
+
     display: block;
     color: #404040;
     font-size: 2.4rem;
@@ -477,6 +477,11 @@
     margin-top: -30px;
 
 }
+
+.cke_contents .bck-ol1 li {
+	margin-top: 0px;
+}
+
 
 .content .bck-ol1 li:before,
 .cke_contents .bck-ol1 li:before {
