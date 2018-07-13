@@ -1,15 +1,15 @@
 (function (blink) {
 	'use strict';
 
-	var goStyle = function () {
+	var go_demoStyle = function () {
 			blink.theme.styles.basic.apply(this, arguments);
 		},
 		page = blink.currentPage;
 
-	goStyle.prototype = {
-		bodyClassName: 'content_type_clase_go',
+	go_demoStyle.prototype = {
+		bodyClassName: 'content_type_clase_go_demo',
 		ckEditorStyles: {
-			name: 'go',
+			name: 'go_demo',
 			styles: [
 
 				{ name: 'Título 1', element: 'h4', attributes: { 'class': 'bck-title bck-title1'} },
@@ -91,8 +91,8 @@
 		}
 	};
 
-	goStyle.prototype = _.extend({}, new blink.theme.styles.basic(), goStyle.prototype);
+	go_demoStyle.prototype = _.extend({}, new blink.theme.styles.basic(), go_demoStyle.prototype);
 
-	blink.theme.styles.go = goStyle;
+	blink.theme.styles.go_demo = go_demoStyle;
 
 })( blink );
