@@ -514,17 +514,36 @@
 
 /*LISTA ORDENADA 3*/
 
+.content .bck-ol3 li {
+
+    display: block;
+    color: #404040;
+    font-size: 2.4rem;
+    letter-spacing: 1px;
+    margin-top: -30px;
+
+}
+
+.cke_contents .bck-ol3 li {
+	margin-top: 0px;
+}
+
+
 .content .bck-ol3 li:before,
 .cke_contents .bck-ol3 li:before {
-	box-shadow: none;
-    border: none;
-    background: none;
-    color: #9f0251;
+    color: #79b190;
+    margin-top: 3px;
+    content: counter(bck-li-counter);
     font-size: 3.5rem;
+    position: absolute;
+    left: -3px;
     font-weight: bold;
-    margin-top: 2px;
-    top: -8px;
-}
+    text-align: center;
+    line-height: 2.3rem;
+    background: none;
+    border: none;
+    margin-left: -5px;
+   
 
 /*LISTA ORDENADA 4*/
 
@@ -547,6 +566,156 @@ content: counter(bck-li-counter, lower-alpha);
     line-height: 1.8rem;
     font-size: 1.8rem;
 }
+
+
+/*lista ordenada 5*/
+
+.content .bck-ol5 li {
+
+    display: block;
+    color: #404040;
+    font-size: 2.4rem;
+    letter-spacing: 1px;
+    margin-top: -30px;
+
+}
+
+.cke_contents .bck-ol5 li {
+	margin-top: 0px;
+}
+
+
+.content .bck-ol5 li:before,
+.cke_contents .bck-ol5 li:before {
+    color: #886aa4;
+    margin-top: 3px;
+    content: counter(bck-li-counter);
+    font-size: 3.5rem;
+    position: absolute;
+    left: -3px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 2.3rem;
+    background: none;
+    border: none;
+    margin-left: -5px;
+    box-shadow: none;
+}
+
+
+/*lista ordenada 6*/
+
+.content .bck-ol6 li {
+
+    display: block;
+    color: #404040;
+    font-size: 2.4rem;
+    letter-spacing: 1px;
+    margin-top: -30px;
+
+}
+
+.cke_contents .bck-ol6 li {
+	margin-top: 0px;
+}
+
+
+.content .bck-ol6 li:before,
+.cke_contents .bck-ol6 li:before {
+    color: #c7588f;
+    margin-top: 3px;
+    content: counter(bck-li-counter);
+    font-size: 3.5rem;
+    position: absolute;
+    left: -3px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 2.3rem;
+    background: none;
+    border: none;
+    margin-left: -5px;
+    box-shadow: none;
+}
+
+/*lista ordenada 7*/
+
+.content .bck-ol7 li {
+
+    display: block;
+    color: #404040;
+    font-size: 2.4rem;
+    letter-spacing: 1px;
+    margin-top: -30px;
+
+}
+
+.cke_contents .bck-ol7 li {
+	margin-top: 0px;
+}
+
+
+.content .bck-ol7 li:before,
+.cke_contents .bck-ol7 li:before {
+    color: #70b7e7;
+    margin-top: 3px;
+    content: counter(bck-li-counter);
+    font-size: 3.5rem;
+    position: absolute;
+    left: -3px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 2.3rem;
+    background: none;
+    border: none;
+    margin-left: -5px;
+    box-shadow: none;
+}
+
+/*lista ordenada 8*/
+
+.content .bck-ol8 li {
+
+    display: block;
+    color: #404040;
+    font-size: 2.4rem;
+    letter-spacing: 1px;
+    margin-top: -30px;
+
+}
+
+.cke_contents .bck-ol8 li {
+	margin-top: 0px;
+}
+
+
+.content .bck-ol8 li:before,
+.cke_contents .bck-ol8 li:before {
+    color: #dc9832;
+    margin-top: 3px;
+    content: counter(bck-li-counter);
+    font-size: 3.5rem;
+    position: absolute;
+    left: -3px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 2.3rem;
+    background: none;
+    border: none;
+    margin-left: -5px;
+    box-shadow: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*LISTA DESORDENADA POR DEFECTO*/
 
