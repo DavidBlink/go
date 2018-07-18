@@ -20,6 +20,8 @@
 				{ name: 'Lista ordenada3', element: 'ol', attributes: { 'class': 'bck-ol bck-ol3' } },
 				{ name: 'Lista ordenada4', element: 'ol', attributes: { 'class': 'bck-ol bck-ol4' } },
 				{ name: 'Lista ordenada5', element: 'ol', attributes: { 'class': 'bck-ol bck-ol5' } },
+				{ name: 'Lista ordenada6', element: 'ol', attributes: { 'class': 'bck-ol bck-ol6' } },
+				{ name: 'Lista ordenada7', element: 'ol', attributes: { 'class': 'bck-ol bck-ol7' } },
 				
 				{ name: 'Lista Desordenada', element: 'ul', attributes: { 'class': 'bck-ul'} },
 
