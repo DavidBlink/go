@@ -245,7 +245,7 @@
     left: 10px;
     width: 190px;
     height: 44px;
-    background: url(imagenes/logo-richmond-opt.png) 0 0 no-repeat;
+    background: url(imagenes/logo-richmond-opt-min.png) 0 0 no-repeat;
     -webkit-background-size: contain;
     -moz-background-size: contain;
     -o-background-size: contain;
@@ -261,7 +261,7 @@
 
 		.logo-publisher {
 			width: 40px;
-			background: url(imagenes/logo-richmond-opt.png) 0 0 no-repeat;
+			background: url(imagenes/logo-richmond-opt-min.png) 0 0 no-repeat;
     -webkit-background-size: contain;
     -moz-background-size: contain;
     -o-background-size: contain;
@@ -852,7 +852,7 @@
 /* Icons */
 
 #actividad .player.audio {
-    background: url(imagenes/icono-audio-go3.jpg) center center / cover;
+    background: url(imagenes/icono-audio-go.png) center center / cover;
 }
 
 .item-container .icon:before {
