@@ -722,7 +722,7 @@
 /*LISTA DESORDENADA POR DEFECTO*/
 
 .texto_curso ul li:before, .workspace ul li ul li:before, .cke_contents ul li:before {
-    background-color: #616caa;
+    background-color: #414141;
     width: 10px;
     height: 10px;
     margin-top: 8px;
@@ -738,7 +738,7 @@
 .cke_contents .bck-ul li:before,
 #actividad .content .texto_curso .bck-ul li:before,
 #actividad .content .workspace ul li .bck-ul li:before {
-    background-color: #414141;
+    background-color: #616caa;
     margin-top: 9px;
     margin-left: -15px;
     
