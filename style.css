@@ -245,7 +245,7 @@
     left: 10px;
     width: 190px;
     height: 44px;
-    background: url(https://www.blinklearning.com/useruploads/r/a/93300680/activity_other_imported/logo_demo-richmond-opt.png) 0 0 no-repeat;
+    background: url(/imagenes/logo-richmond-opt.png) 0 0 no-repeat;
     -webkit-background-size: contain;
     -moz-background-size: contain;
     -o-background-size: contain;
@@ -261,7 +261,12 @@
 
 		.logo_demo-publisher {
 			width: 40px;
-			background-image: url(Pearson-logo_demo-2016-219x286.png);
+			background: url(/imagenes/logo-richmond-opt.png) 0 0 no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: center center;
 		}
 	}
 
