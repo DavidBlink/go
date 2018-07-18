@@ -738,7 +738,7 @@
 .cke_contents .bck-ul li:before,
 #actividad .content .texto_curso .bck-ul li:before,
 #actividad .content .workspace ul li .bck-ul li:before {
-    background-color: black;
+    background-color: #414141;
     margin-top: 2px;
     margin-left: -25px;
     
