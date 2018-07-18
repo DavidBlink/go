@@ -238,7 +238,7 @@
     	padding-right: 100px;
 	}
 
-	.logo_demo-publisher {
+	.logo-publisher {
     display: inline-block;
     position: absolute;
     top: 0;
@@ -259,7 +259,7 @@
 			padding-right: 40px;
 		}
 
-		.logo_demo-publisher {
+		.logo-publisher {
 			width: 40px;
 			background: url(/imagenes/logo-richmond-opt.png) 0 0 no-repeat;
     -webkit-background-size: contain;
@@ -847,7 +847,7 @@
 /* Icons */
 
 #actividad .player.audio {
-    background: url(https://www.blinklearning.com/useruploads/r/a/93727960/activity_other_imported/icono-audio-go_demo3.jpg) center center / cover;
+    background: url(/imagenes/icono-audio-go3.jpg) center center / cover;
 }
 
 .item-container .icon:before {
